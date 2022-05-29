@@ -1,0 +1,24 @@
+.services-button {
+  width: 50%;
+  height: 30px;
+  background-color: #7b7bfa8e;
+  border: blue;
+  border-radius: 20px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  margin: 5px;
+}
+
+.button-disabled {
+  opacity: 0.20;
+  cursor: not-allowed;
+}
+
+.option-label {
+  color: white;
+}

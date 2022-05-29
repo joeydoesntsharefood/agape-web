@@ -1,5 +1,5 @@
 import './App.css';
-import Content from './viewes/Content'
+import Content from './viewes/Content/Content'
 
 function App() {
   return (
